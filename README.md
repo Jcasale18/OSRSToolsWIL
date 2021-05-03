@@ -6,3 +6,6 @@ What I learned from the previous OSRStools repo prompted me to re-write it and m
   
 Random toolsets for the game Oldschool Runescape
 
+# Note
+This is still old and outdated, looking back at it now, it's unclean. TODO - Clean up this code and make it more elegant.
+
